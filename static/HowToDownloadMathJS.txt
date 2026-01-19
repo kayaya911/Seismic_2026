@@ -1,0 +1,14 @@
+Steps to Download
+
+Visit the Official Download Page  https://mathjs.org/download.html 
+
+Confirm the latest version and details.
+
+Direct Download via Link:
+Right-click on the following link and select "Save As" or "Download Linked File As" to save it locally. 
+Name the file math.min.js
+
+Full Bundle: https://unpkg.com/mathjs@15.1.0/lib/browser/math.js
+
+<script type="text/javascript" src="./static/js/math.min.js"> </script>
+
